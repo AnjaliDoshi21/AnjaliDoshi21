@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Anjali Doshi</h1>
 <h3 align="center">A passionate ReactJs developer from Ahmedabad</h3>
 <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anjalidoshi21&label=Profile%20views&color=0e75b6&style=flat" alt="AnjaliDoshi21" /> </p>
+
 - 📫 How to reach me **anjalidoshi503@gmail.com**
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
